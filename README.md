@@ -12,7 +12,7 @@ The project includes API endpoint testing using a **MySQL** test **Docker contai
 | Folder                       | Description                                                   |
 |------------------------------|---------------------------------------------------------------|
 | deploy                       | Contains the docker-compose.yml used to setup the application |
-| src/main/java/com/expandapis | Spring boot application EStoreApp.java                        |
+| src/main/java/com/expandapis | Spring boot application                                       |
 
 ### How to build and run
 
