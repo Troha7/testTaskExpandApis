@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <user
+    id="1"
+    username="anton"
+    password="$2a$10$lWwuUfaNmE0RVZqaes9WBO2CZMlW.nmMXTTbW6RJviblr6KLUJWcq"
+  />
+  <user
+    id="2"
+    username="vasil"
+    password="$2a$10$lv5fEnVVVfrnlnfJ7RVe6.gSP4myN.BYzYPue5rF00Bk8tk8c3XVO"
+  />
+</dataset>
